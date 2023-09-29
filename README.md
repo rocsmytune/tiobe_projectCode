@@ -1,17 +1,6 @@
-<!--
- * @Author: rocs
- * @Date: 2023-09-11 23:44:07
- * @LastEditors: rocs
- * @LastEditTime: 2023-09-11 23:44:08
- * @Description: 
--->
-<!--
- * @Author: rocs
- * @Date: 2023-07-11 19:08:18
- * @LastEditors: rocs
- * @LastEditTime: 2023-08-30 21:44:56
- * @Description: 
--->
+### Intro
+
+This is a public version of the project code at TIOBE.
 
 ### Data Collection Date
 
